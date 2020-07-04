@@ -29,7 +29,7 @@ To help process this data, you will create machine learning models capable of cl
 
 # Conclusion
 
-### After comparing all the models, it looks like Random Forest Classifier gives the best Accuracy Score.
+### After comparing all the models, it looks like Random Forest Classifier Model gives the best Accuracy Score for the data.
 
 ### SVM without Gridsearch
 
