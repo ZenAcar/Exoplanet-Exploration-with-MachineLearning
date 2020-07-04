@@ -25,7 +25,6 @@ To help process this data, you will create machine learning models capable of cl
 * Tune and compare different classifiers.
 
 - - -
-After comparing the following models
 
 
 # Conclusion
