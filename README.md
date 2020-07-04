@@ -33,9 +33,9 @@ To help process this data, you will create machine learning models capable of cl
 
 ### SVM without Gridsearch
 
-*Accuracy = 0.6922196796338673
-*Training Data Score: 0.8081251192065612
-*Testing Data Score: 0.8117848970251716
+* Accuracy = 0.6922196796338673
+* Training Data Score: 0.8081251192065612
+* Testing Data Score: 0.8117848970251716
 
                  precision    recall  f1-score   support
 
@@ -50,9 +50,9 @@ To help process this data, you will create machine learning models capable of cl
 
 ### SVM with Gridsearch
 
-*Accuracy = 0.41418764302059496
-*Training Data Score: 0.8165172611100515
-*Testing Data Score: 0.8232265446224256
+* Accuracy = 0.41418764302059496
+* Training Data Score: 0.8165172611100515
+* Testing Data Score: 0.8232265446224256
 
                 precision    recall  f1-score   support
 
@@ -67,9 +67,9 @@ To help process this data, you will create machine learning models capable of cl
 
 ### Decision Tree 
 
-*Accuracy = 0.8678489702517163
-*Training Data Score: 0.751096700362388
-*Testing Data Score: 0.7522883295194508
+* Accuracy = 0.8678489702517163
+* Training Data Score: 0.751096700362388
+* Testing Data Score: 0.7522883295194508
 
                 precision    recall  f1-score   support
 
@@ -84,9 +84,9 @@ To help process this data, you will create machine learning models capable of cl
 
 ### Random Forest without Gridsearch
 
-*Accuracy = 0.9084668192219679
-*Training Data Score: 0.737745565515926
-*Testing Data Score: 0.7408466819221968
+* Accuracy = 0.9084668192219679
+* Training Data Score: 0.737745565515926
+* Testing Data Score: 0.7408466819221968
 
                 precision    recall  f1-score   support
 
@@ -101,9 +101,9 @@ To help process this data, you will create machine learning models capable of cl
   
 ### Random Forest with Gridsearch
 
-*Accuracy = 0.5051487414187643
-*Training Data Score: 1.0
-*Testing Data Score: 0.9073226544622426
+* Accuracy = 0.5051487414187643
+* Training Data Score: 1.0
+* Testing Data Score: 0.9073226544622426
 
                 precision    recall  f1-score   support
 
@@ -118,9 +118,9 @@ To help process this data, you will create machine learning models capable of cl
   
 ### KNN Score without Gridsearch
 
-*Accuracy = 0.5011441647597255
-*Training Data Score: 0.8571428571428571
-*Testing Data Score: 0.7889016018306636
+* Accuracy = 0.5011441647597255
+* Training Data Score: 0.8571428571428571
+* Testing Data Score: 0.7889016018306636
 
                 precision    recall  f1-score   support
 
@@ -135,9 +135,9 @@ To help process this data, you will create machine learning models capable of cl
 
 ### KNN Score with Gridsearch
 
-*Accuracy = 0.790045766590389
-*Training Data Score: 0.6286477207705512
-*Testing Data Score: 0.6464530892448512
+* Accuracy = 0.790045766590389
+* Training Data Score: 0.6286477207705512
+* Testing Data Score: 0.6464530892448512
 
                 precision    recall  f1-score   support
 
