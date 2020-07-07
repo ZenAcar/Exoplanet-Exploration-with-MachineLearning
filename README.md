@@ -29,7 +29,8 @@ To help process this data, you will create machine learning models capable of cl
 
 # Conclusion
 
-### * After comparing the following models, it looks like Random Forest Classifier Model gives the best Accuracy Score for the data.
+### * After comparing the following models, it looks like Random Forest Classifier Model gives the best Accuracy Score for the data. 
+### * Although it was better after the model is tuned, it is not a good idea to use KNN model for this data. 
 
 ### SVM without Gridsearch
 
