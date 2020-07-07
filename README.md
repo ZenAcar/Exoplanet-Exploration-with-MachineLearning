@@ -50,20 +50,19 @@ To help process this data, you will create machine learning models capable of cl
 
 ### SVM with Gridsearch
 
-* Accuracy = 0.7946224256292906
-* Training Data Score: 0.7892427999237078
-* Testing Data Score: 0.7911899313501144
+* Accuracy = 0.8054919908466819
+* Training Data Score: 0.7840930764829296
+* Testing Data Score: 0.7894736842105263
 
                 precision    recall  f1-score   support
 
-        CANDIDATE       0.82      0.58      0.68       598
-        CONFIRMED       0.37      0.87      0.52       191
-      FALSE POSITIVE    1.00      0.91      0.95       959
+         CANDIDATE       0.89      0.57      0.69       661
+         CONFIRMED       0.36      0.82      0.50       198
+       FALSE POSITIVE    0.99      0.98      0.99       889
 
-         accuracy                           0.79      1748
-        macro avg       0.73      0.79      0.72      1748
-      weighted avg      0.87      0.79      0.81      1748
-
+          accuracy                           0.81      1748
+         macro avg       0.75      0.79      0.73      1748
+      weighted avg       0.88      0.81      0.82      1748
 
 ### Decision Tree 
 
